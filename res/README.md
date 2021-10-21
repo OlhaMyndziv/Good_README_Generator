@@ -1,6 +1,6 @@
 
 # Good README Generator  
-##Content ![badge](https://img.shields.io/badge/license-MIT-blue)
+## Content ![badge](https://img.shields.io/badge/license-MIT-blue)
 - [Description](#description)
 - [Installation](#installation)
 - [Toolkit](#toolkit)
